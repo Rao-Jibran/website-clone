@@ -1,0 +1,94 @@
+.navbar{
+    display: flex;
+    background-color:white;
+    position: sticky;
+
+}
+.logo{
+    display: block;
+    margin-left: 80px;
+}
+.navlist{
+    list-style: none;
+    display: flex;
+    justify-content: right;
+    align-content: right;
+    margin-left: 300px;
+}
+.navlist li{
+list-style: none;
+display: flex;
+align-items: right;
+justify-content: right;
+padding: 18px;
+}
+.navlist li a{
+    list-style: none;
+color:rgb(45, 45, 241);
+text-decoration: none;
+justify-content: right;
+justify-items: right;
+font-weight: 600;
+
+}
+.navlist li :hover{
+    border-bottom: 2px solid blue;
+   
+}
+
+.bg{
+    background-image:url(bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    height: 500px;
+    padding-left: 50px;
+    padding-top: 100px;
+    font-size:xx-large;
+}
+.bg h2{
+    
+    text-decoration: underline;
+    color: teal;
+}
+.btn button{
+    width: 165px;
+    height: 52px;
+    font-size: 18px;
+    background-color: transparent;
+    border: solid wheat;
+    border-radius: 30px;
+    color: white;
+}
+button:hover{
+    background-color:teal; 
+    color: white;
+    cursor: pointer;
+   
+}
+.bottom1{
+    margin-top: 30px;
+    margin-left: 80px;
+    justify-content: left;
+    text-align: left;
+    width: 50%;
+    font-size:  19px;
+    
+    
+}
+.section2{
+ 
+ background: url(img1.png);
+ background-repeat: no-repeat;
+ background-position-x: right;
+}
+.logo1{
+ padding-left: 50px;
+ display: flex;
+}
+.logo1 p{
+    width: 50%;
+    font-size:  12px;
+
+}
+
