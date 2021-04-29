@@ -1,7 +1,10 @@
 .navbar{
     display: flex;
     background-color:white;
-    position: sticky;
+    position: fixed;
+    padding-right: 53px;
+    margin-top: -10px;
+    
 
 }
 .logo{
@@ -81,6 +84,7 @@ button:hover{
  background: url(img1.png);
  background-repeat: no-repeat;
  background-position-x: right;
+ margin-bottom: 20px;
 }
 .logo1{
  padding-left: 50px;
@@ -241,5 +245,54 @@ height: 410px;
     margin-top: 15px;
     padding-bottom: 15px;
     text-align: center;
+}
+.ending1{
+    width: 30%;
+    margin-left: 40px;
+    padding-top: 25px;
+    color: white;
+}
+.ending1 h1{
+font-size: xx-large;
+font-family:Georgia, 'Times New Roman', Times, serif;
 
+}
+.ending2{
+color: white;
+width: 15%;
+padding-top: 25px;
+
+}
+.ending2 li{
+    list-style: none;
+    text-decoration: none;
+    height: 38px;
+    margin-right: 10px;
+}
+.ending2 h4{
+    padding-left: 38px;
+
+}
+.ending3{
+    width: 20%;
+    padding-top: 25px;
+    color: white;
+}
+.ending4{
+    width: 30%;
+    padding-top: 25px;
+    color: white;
+}
+.lolo img{
+    height: 40px;
+    width: 55px;
+}
+.foot{
+    background-color: blue;
+padding-top: 15px;
+padding-bottom: 1px;
+    color: cornsilk;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
 }
