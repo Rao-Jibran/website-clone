@@ -91,4 +91,155 @@ button:hover{
     font-size:  12px;
 
 }
+.service{
+    align-content: center;
+    text-align: center;
+    font-size:x-large;
+    padding-top: 12px;
+}
+.service p{
+    padding-left: 350px;
+    padding-right: 350px;
+    font-size:  15px;
+}
+.logo2{
+    display: flex;
+    background-color: white;
+    width: 40%;
+    margin-left: 85px;
+    padding-top: 30px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+.logo2 img{
+    width: 70px;
+    height: 80px;
+    padding-left: 35px;
+    
+}
+.logo2 h3{
+    width: 30%;
+    text-align: right;
+    justify-content: right;
+    align-items:right;
+    display: initial;
+    padding-left: 40px;
+}
+.logo2 p{
+    width: 70%;
+    padding-left: 15px;
+}
+.section3{
+    color: white; 
+    padding-top: 5px;
+}
+.section3 h4{
+    font-size: xx-large;
+    padding-top: 10px;
+}
+.section3 p{
+    padding-left: 350px;
+    padding-right: 350px;
+}
+.boxes{
+    color: white;
+    width: 30%;
+    height: 230px;
+    background-color: rgb(18, 54, 163);
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    margin-left: 55px;
+    margin-right: 55px;
+    margin-top: 45px;
+    margin-bottom: 55px;
+}
+.port{
+    font-size :55px;
+    justify-content: center;
+    text-align: center;
+    font-family:monospace;
+    color: black;
+   background-color: rgba(255, 255, 255, 0.781);
+}
+.btnss{
+    align-items: center;
+    display: flex;
+    width: 80px;
+    padding-left: 515px;
+}
+.btnss button{
+    width: 70px;
+    padding: 6px 10px;
+    background-color: rgba(135, 206, 250, 0.507);
+    color: blue;
+    font-family:monospace;
+    border-radius: 50px;
+    font-weight: bold;
+}
+.btnss button:hover{
+    background-color: blue;
+    color: white;
+}
+.pics{
+display: flex;
+align-items: center;
+justify-content: center;
+margin-bottom: 50px;
+}
+.pic1{
+height: 410px;
+}
+.pic2{
+    height: 300px;
 
+}
+.pic3{
+    height: 510px;
+
+}
+.testi{
+    font-size :x-large;
+    justify-content: center;
+    text-align: center;
+    color: black;
+    margin-top: 15px;
+    padding-top: 30px;
+}
+.test{
+    display: flex;
+    padding-top: 30px;
+    margin-top: 30px;
+    /* margin-bottom: 100px; */
+    justify-content: center;
+    align-content: center;
+    padding-bottom: 65px;
+}
+.test img{
+    width: 70px;
+    height: 80px;
+    padding-left: 35px;
+    border-radius: 100px;
+    width: 60%;
+  
+}
+.test h3{
+    width: 30%;
+    text-align: left;
+    justify-content: left;
+    align-items:left;
+    display: initial;
+
+}
+.test p{
+    width: 70%;
+    padding-left: 15px;
+
+}
+.team{
+    padding-top: 30px;
+    margin-top: 15px;
+    padding-bottom: 15px;
+    text-align: center;
+
+}
